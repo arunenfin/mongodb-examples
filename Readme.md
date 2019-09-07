@@ -7,3 +7,4 @@
 - [Find methods - Projections](https://github.com/arunenfin/mongodb-examples/blob/master/find-projections.md)
 - [Find methods - Projection Operators](https://github.com/arunenfin/mongodb-examples/blob/master/find-projectionoperators.md)
 - [Join Collections using aggregates](https://github.com/arunenfin/mongodb-examples/blob/master/join-multiple-collections.md)
+- [Update methods](https://github.com/arunenfin/mongodb-examples/blob/master/update.md)
