@@ -11,7 +11,8 @@ To enable mongod service / start mongodb when system starts
     sudo systemctl enable mongod
 
 #### Enable authentication on MongoDB
-https://docs.mongodb.com/manual/tutorial/enable-authentication/
+Please follow instructions at https://docs.mongodb.com/manual/tutorial/enable-authentication/
+
 To enable authentication add the following in the security section of `/etc/mongod.conf`
 ```
 security:
