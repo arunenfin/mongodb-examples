@@ -284,7 +284,7 @@ db.posts.aggregate([
 }
 ```
 ### References
-
+ - https://docs.mongodb.com/manual/reference/method/db.collection.aggregate/#examples
  - [https://docs.mongodb.com/manual/reference/operator/aggregation/lookup/](https://docs.mongodb.com/manual/reference/operator/aggregation/lookup/)
  - [https://docs.mongodb.com/manual/reference/operator/aggregation/match/](https://docs.mongodb.com/manual/reference/operator/aggregation/match/)
  - [https://docs.mongodb.com/manual/reference/operator/aggregation/unwind/](https://docs.mongodb.com/manual/reference/operator/aggregation/unwind/)
